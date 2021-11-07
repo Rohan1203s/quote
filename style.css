@@ -1,0 +1,33 @@
+.bg-img {
+  background-image: linear-gradient(to right, rgba(221, 29, 29, 0.8), rgba(136, 182, 241, 0.8));
+}
+h3 {
+  color:rgba(18, 110, 194, 0.8);
+}
+
+.colors {
+     color:black;
+
+}
+.purple {
+     color:blue;
+     font-weight: bold;
+}
+h4 {
+  color:pink);
+   text-align: center;
+}
+a {
+  position: relative;
+}
+a.on:after {
+  content: "Hide";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+input, textarea {
+  width: 100%; }
